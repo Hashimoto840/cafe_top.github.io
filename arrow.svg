@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 43.3 78.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fffffe;
+      }
+    </style>
+  </defs>
+  <g id="_フッター" data-name="フッター">
+    <g>
+      <g>
+        <path class="cls-1" d="M.55,58.55c1.28,0,1.39-.09,1.39-1.22v-8.3c0-1.16-.1-1.22-1.39-1.22v-.47h4.3c1.92,0,2.91.27,3.6.78.69.54,1.13,1.33,1.13,2.36s-.36,1.84-1.11,2.39c-.76.55-1.8.87-3.78.87h-1.49v3.6c0,1.14.09,1.22,1.63,1.22v.48H.55v-.48ZM4.69,53.14c1.84,0,3.55-.43,3.55-2.68,0-2.46-2.36-2.52-3.6-2.52h-1.01c-.38,0-.43.14-.43.95v4.25h1.49Z"/>
+        <path class="cls-1" d="M17.84,55.26h-4.57l-.66,2.11c-.1.35-.17.59-.17.76,0,.35.26.43.95.43v.48h-2.81v-.48c.68,0-.13-.14.13-.89l4.62-10.56h.62l4.02,10.34c.35.95.55,1.11,1.2,1.11v.48h-3.31v-.48c.73,0,.97-.09.97-.41,0-.16-.05-.38-.16-.65l-.83-2.23ZM17.61,54.64l-2.17-5.72h-.05l-1.91,5.72h4.12Z"/>
+        <path class="cls-1" d="M30.29,50.29c-.33-1.68-.59-2.6-2.69-2.6-2.55,0-4,2.19-4,5.37,0,3.61,1.61,5.58,3.86,5.58,1.2,0,1.96-.54,2.32-.81v-1.92c0-.81-.1-.89-1.44-.89v-.48h3.76v.48c-1.07,0-1.14.06-1.14.81v2.09c-.88.78-2.22,1.35-3.6,1.35-3.21,0-5.09-2.33-5.09-6.11,0-3.09,1.42-6.05,5.48-6.05,1.16,0,2.03.29,2.77.57.09.89.23,1.65.38,2.5l-.61.11Z"/>
+        <path class="cls-1" d="M41.29,59.03h-8.07v-.48c1.26,0,1.39-.09,1.39-1.22v-8.3c0-1.16-.12-1.22-1.39-1.22v-.47h7.59l.54,2.45h-.62c-.47-1.8-.64-1.85-1.61-1.85h-2.58c-.61,0-.66.09-.66.76v3.93h2.46c.8,0,.92-.14.92-1.62h.61v3.87h-.61c0-1.54-.12-1.63-.92-1.63h-2.46l-1,4.45c0,.63,1.14.71,1.5.71h3.24c1.02,0,1.18-.09,1.65-1.88h.62l-.59,2.5Z"/>
+        <path class="cls-1" d="M11.01,66.99v9.34c0,1.14.05,1.22,1.63,1.22v.48h-4.54v-.48c1.56,0,1.63-.08,1.63-1.22v-9.34h-2.22c-1.02,0-1.14.08-1.51,1.95h-.59l.4-2.6h9.1l.4,2.6h-.59c-.38-1.9-.5-1.95-1.51-1.95h-2.2Z"/>
+        <path class="cls-1" d="M16.38,72.17c0-4.31,2.25-6.07,5.35-6.07,3.9,0,5.35,2.69,5.35,6.07,0,4.15-2.08,6.1-5.35,6.1s-5.35-2.04-5.35-6.1ZM18.89,67.85c-.73.84-1.18,2.17-1.18,4.32,0,1.84.4,3.34,1.18,4.32.64.71,1.71,1.17,2.82,1.17s2.15-.46,2.82-1.17c.78-.98,1.18-2.49,1.18-4.32,0-2.15-.45-3.48-1.18-4.32-.73-.79-1.73-1.16-2.82-1.16-1.47,0-2.32.62-2.82,1.16Z"/>
+        <path class="cls-1" d="M28.52,77.55c1.28,0,1.39-.09,1.39-1.22v-8.3c0-1.16-.1-1.22-1.39-1.22v-.47h4.3c1.92,0,2.91.27,3.6.78.69.54,1.13,1.33,1.13,2.36s-.36,1.84-1.11,2.39c-.76.55-1.8.87-3.78.87h-1.49v3.6c0,1.14.09,1.22,1.63,1.22v.48h-4.28v-.48ZM32.66,72.14c1.84,0,3.55-.43,3.55-2.68,0-2.46-2.36-2.52-3.6-2.52h-1.01c-.38,0-.43.14-.43.95v4.25h1.49Z"/>
+      </g>
+      <image id="_矢印アイコン" data-name="矢印アイコン" width="63" height="57" transform="scale(.69 .7)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD8AAAA8CAYAAADRy2JxAAAACXBIWXMAABAlAAAQJQEuD214AAADrUlEQVRoge2bv1PbMBTHv/J1L/4LSPkHSM9/AOEOupYlc9MldMzGaqayNd0KS8NYpnQtDGYm6cFe7sIfQIj/Ab0OljnH+IfkSHIgfO58Fzu29L5P8pMsPzMsCBHvANgD0ASwvmh5BVwCuAbQZ8yZGKynHCLeI+IzIk41bAERb9Qhek1UXofo5DYTva4yTFU4gADA5iKVauYzY86gyoWq4gMAW1UqMsw2Y06gepEjeyIR97GcwgFgIHqlElLiRcE9ZZPssY4K9kl1eyI+APBJtfAaeKcyDJa2PBFv4nkIB4C+ysky3V6pwJr5SMRbsicXiifie1jeIJeHdGPlihdB7jm1eswmEZcKfkUt34OhufrJyQn297+YKDrGrzL0AQCIeMPUvP3g4IAAEADqdrsmp7/Vei0RH5gwqNvtPgqPN8/zaDq9N+WAhqrwli3hFhwQqIq/1mnAdHpfKNyCA/ZkhXd0C/c8r1S4YQdMZISvkcYgpyrcsAP8MvG+aeFZx46OvtpwwIzyhj6KhjYtFY1GV7nCp9P7J8eJrI0CgzzxQ13CXdctFJIlvsgBt7f/dDqgmdQtvZjxIiFN47pMqxe1PBGndrv95H/XdWk0utLV8kFavJaV2OPjH6XC8+755P/peOG6Lp2d/dLZ9VtJ8doKTjogK2Cdn/8pFJ92gOZWj7ehEfEkuv/Ozk5mpJYRHzug3W4bm/PH2llyxzQXFxfY3f0wd4yI26o+yTZjTrDS0f5V/KqyquJngGXx4/HYZnV5hIw518BqtvzjOO8gynhYJQbxDweAX5sZ9rlMvsp2xM5pHZZsbGzYrrKT3Inv+R6A0LYllsUfpt/gOgDAmDPD83w1JUuIDH2P0Z4xxwdwZ9KC8fivyeKL6IkGniM91BnNvnh4eDBZfB43eQlLc+IZc4Z4eUNfboNmTXI65uywzmlRltYT8SIifjdokC1ClMxh3uQc9xH1gLc6rfE8r3BfM6U5urnZWBRlN3zTbZEl7gA0syJ8ksJUNIpe8pnMpDaFVEpq2VNdR4spdrmUzcUtFC8i5W8NBtlEeq4i8zy/zGmnaU7jhQoZSsWLiHm4iEWWCKHYULIrOX3U8NSnSL8suqeRzren6KuGn6oWWeKOMaehepH0Gp6IoLUsepQQIvrASRnVBcwegJsqFRmkpxLkkiiJF/dUC8vRA0IA76t+X7MQFCU1TEy8RZXY+lQ1tzaB0gdGOU5oIpoJNsWm9WFIcANggmjNfaga1V95ZZ7/ry7VhRl0ZHoAAAAASUVORK5CYII="/>
+    </g>
+  </g>
+</svg>
